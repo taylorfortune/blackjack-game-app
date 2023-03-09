@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-image: url(https://media.istockphoto.com/id/1218355494/vector/poker-table-background-in-green-color.jpg?s=612x612&w=0&k=20&c=qJ-IauRqbIhaeQ5CXZxwysghJUm1VE5wW0odCiFt4yg=);
+  background-size: cover;
+}
+h1 {
+    color: goldenrod;
+  }
+  
+  h3 {
+    font-size: 50px;
+  }
+  
+  button {
+    padding: 15px;
+    width: 15rem;
+    font-size: 15px;
+    background: goldenrod;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  p {
+    font-size: 25px;
+  }
